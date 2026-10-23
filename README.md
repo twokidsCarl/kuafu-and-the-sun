@@ -4,7 +4,7 @@
 
 Unity 6 · URP · **WebGPU-only** browser game (Chrome/Edge; no WebGL2 fallback).
 
-- 在-game 风格：low-poly stylized 3D
+- 游戏内风格：low-poly stylized 3D
 - 角色：日纹炽热神（瘦小老人形象的太阳神）
 - 大文件（FBX / 贴图 / 音频）用 Git LFS，clone 前先 `git lfs install`
 
